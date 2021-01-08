@@ -88,8 +88,6 @@ https://dzone.com/articles/deploying-spring-boot-on-docker
 
 https://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-NodeJS-Angular-Docker-Compose.php
 
-https://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-NodeJS-Angular-Docker-Compose.php
-
 https://kubernetes.io/blog/2016/11/kompose-tool-go-from-docker-compose-to-kubernetes/
 
 https://dzone.com/articles/kubernetes-and-mean-stack-for-microservices-develo
