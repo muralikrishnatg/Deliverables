@@ -12,7 +12,7 @@ https://www.javatpoint.com/docker-push-repository
 
 https://github.com/Training-and-Development-SRE/Docker-compose-flask-redis-deploy
 
-stackify.com/docker-tutorial
+https://stackify.com/docker-tutorial/
 
 https://github.com/shekhargulati/python-flask-docker-hello-world
 
