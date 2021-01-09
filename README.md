@@ -98,3 +98,12 @@ https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/
 
 https://www.codementor.io/@sheena/hello-microservice-deployment-part-1-docker-kw9ejpd9o
 
+## About ReplicaSet and Replication Controller 
+https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/
+
+## .NET based Microservices and deep dive
+https://www.3pillarglobal.com/insights/blog-posts/develop-microservices-net-core-docker/
+
+https://codeburst.io/building-microservices-with-asp-net-core-an-added-advantage-5d67f750453a
+
+https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial/intro
