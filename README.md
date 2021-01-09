@@ -107,3 +107,25 @@ https://www.3pillarglobal.com/insights/blog-posts/develop-microservices-net-core
 https://codeburst.io/building-microservices-with-asp-net-core-an-added-advantage-5d67f750453a
 
 https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial/intro
+
+-----
+https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82
+
+https://dzone.com/articles/setting-up-cicd-pipelines-for-docker-kubernetes-pr
+
+https://www.taniarascia.com/continuous-integration-pipeline-docker/
+
+https://circleci.com/blog/build-cicd-piplines-using-docker/
+
+https://www.novatec-gmbh.de/en/blog/ci-cd-series-part-1-how-to-build-a-ci-cd-pipeline-using-jenkins-docker-kubernetes-step-by-step-guide/
+
+https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins
+
+https://platform9.com/blog/kubernetes-for-ci-cd-at-scale/
+
+https://dzone.com/articles/how-to-setup-a-cicd-pipeline-with-kubernetes-2020
+
+https://medium.com/@shikharsrivastava_14544/automation-of-ci-cd-pipeline-using-kubernetes-5df5b22edf18
+
+https://www.metricfire.com/blog/ci-cd-pipeline-for-kubernetes-applications/?GAID=undefined
+
