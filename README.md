@@ -129,3 +129,20 @@ https://medium.com/@shikharsrivastava_14544/automation-of-ci-cd-pipeline-using-k
 
 https://www.metricfire.com/blog/ci-cd-pipeline-for-kubernetes-applications/?GAID=undefined
 
+---
+
+1. https://www.edureka.co/blog/what-is-ansible/
+
+2. https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0
+
+3. https://www.javatpoint.com/ansible
+
+4. https://www.guru99.com/ansible-tutorial.html
+
+5. https://www.softwaretestinghelp.com/ansible-tutorial-1/
+
+6. https://serversforhackers.com/c/an-ansible-tutorial
+
+7. https://blog.ssdnodes.com/blog/step-by-step-ansible-guide/
+
+
