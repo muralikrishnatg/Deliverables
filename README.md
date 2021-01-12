@@ -148,19 +148,25 @@ https://www.metricfire.com/blog/ci-cd-pipeline-for-kubernetes-applications/?GAID
 
 ---
 https://joachim8675309.medium.com/docker-the-terraform-way-a7c16b5f59ed
+
 https://joachim8675309.medium.com/docker-in-many-ways-2f28fcc36be2
+
 https://rollout.io/blog/terraforming-your-docker-environment-on-aws/
 
 https://github.com/Training-and-Development-SRE/terraform-sample-app
+
 https://github.com/jtbonhomme/terraform-ansible-docker [using both terraform and Ansible on AWS]*
 
 Only for superstars * - https://github.com/Training-and-Development-SRE/tads-boilerplate
+
 https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 
 https://upcloud.com/community/tutorials/get-started-terraform/
+
 https://github.com/Training-and-Development-SRE/Terraform-Turotials 
 
 https://www.golibrary.co/terraform-to-provision-nginx-docker-container/
+
 https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4 - Ansible Deep Dive
 
 
